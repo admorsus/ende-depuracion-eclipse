@@ -1,4 +1,4 @@
-package sTexto;
+package STexto;
 
 /**
  * Wrapper class for string
